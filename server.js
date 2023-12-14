@@ -11,7 +11,7 @@ app.use(bodyParser.json());
 
 // MongoDB connection URI
 const uri =
-  "mongodb+srv://mahith1babloo:mahith1206@cluster0.bvsbz9f.mongodb.net/?retryWrites=true&w=majority";
+  "mongodb+srv://helloween:hellohelloween123@cluster0.2rvcnzv.mongodb.net/?retryWrites=true&w=majority";
 
 // Connect to MongoDB
 const client = new MongoClient(uri, {
